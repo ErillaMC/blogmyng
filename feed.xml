@@ -3,7 +3,7 @@
     <title>MyNG | My Next Generation | Блог Minecraft сервера</title>
     <link href="https://blog.myng.ru/feed.xml" rel="self" />
     <link href="https://blog.myng.ru" />
-    <updated>2026-04-03T18:35:05+03:00</updated>
+    <updated>2026-04-03T18:38:09+03:00</updated>
     <author>
         <name>FoxerProxy</name>
     </author>
@@ -16,17 +16,26 @@
         </author>
         <link href="https://blog.myng.ru/postroyka-uyutnoy-lokacii-spawn-or-sunduki-posle-smerti-or-novye-iventy-or-obnovlenie-sayta-i-pravil-or-dnevnik-razrabotki-no3.html"/>
         <id>https://blog.myng.ru/postroyka-uyutnoy-lokacii-spawn-or-sunduki-posle-smerti-or-novye-iventy-or-obnovlenie-sayta-i-pravil-or-dnevnik-razrabotki-no3.html</id>
+        <media:content url="https://blog.myng.ru/media/posts/5/1773252409723234-0.jpg" medium="image" />
 
         <updated>2026-04-03T18:35:05+03:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://blog.myng.ru/media/posts/5/1773252409723234-0.jpg" alt="" />
                     Приветствую всех игроков от лица всего проекта. На сегодняшний день&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://blog.myng.ru/media/posts/5/1773252409723234-0.jpg" class="type:primaryImage" alt="" /></p>
                 <div>
-<div>Приветствую всех игроков от лица всего проекта. На сегодняшний день у нас довольно кардинально новое обновление. Теперь смерть игрока - цельный ивент, регламентируемый правилами проекта. А так же у нас теперь локация, где появляется игрок - уютное пристанище для каждого, а так же важнейшая торговая и информативная логистическая точка </div>
+<div>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://blog.myng.ru/media/posts/5/gallery/1773252409723234-0.jpg" data-size="1280x660"><img loading="lazy" src="https://blog.myng.ru/media/posts/5/gallery/1773252409723234-0-thumbnail.jpg" alt="" width="720" height="371"></a></figure>
+<figure class="gallery__item"><a href="https://blog.myng.ru/media/posts/5/gallery/1773252406611634-1.jpg" data-size="1280x660"><img loading="lazy" src="https://blog.myng.ru/media/posts/5/gallery/1773252406611634-1-thumbnail.jpg" alt="" width="720" height="371"></a></figure>
+<figure class="gallery__item"><a href="https://blog.myng.ru/media/posts/5/gallery/1773141400017918-2.jpg" data-size="1280x660"><img loading="lazy" src="https://blog.myng.ru/media/posts/5/gallery/1773141400017918-2-thumbnail.jpg" alt="" width="720" height="371"></a></figure>
+</div></div>
+<br><br>Приветствую всех игроков от лица всего проекта. На сегодняшний день у нас довольно кардинально новое обновление. Теперь смерть игрока - цельный ивент, регламентируемый правилами проекта. А так же у нас теперь локация, где появляется игрок - уютное пристанище для каждого, а так же важнейшая торговая и информативная логистическая точка </div>
 <div> </div>
 <div>
 <ul>
