@@ -3,7 +3,7 @@
     <title>MyNG | My Next Generation | Блог Minecraft сервера</title>
     <link href="https://blog.myng.ru/feed.xml" rel="self" />
     <link href="https://blog.myng.ru" />
-    <updated>2026-04-03T18:38:09+03:00</updated>
+    <updated>2026-04-03T18:41:36+03:00</updated>
     <author>
         <name>FoxerProxy</name>
     </author>
@@ -14,9 +14,10 @@
         <author>
             <name>FoxerProxy</name>
         </author>
-        <link href="https://blog.myng.ru/postroyka-uyutnoy-lokacii-spawn-or-sunduki-posle-smerti-or-novye-iventy-or-obnovlenie-sayta-i-pravil-or-dnevnik-razrabotki-no3.html"/>
-        <id>https://blog.myng.ru/postroyka-uyutnoy-lokacii-spawn-or-sunduki-posle-smerti-or-novye-iventy-or-obnovlenie-sayta-i-pravil-or-dnevnik-razrabotki-no3.html</id>
+        <link href="https://blog.myng.ru/dev3.html"/>
+        <id>https://blog.myng.ru/dev3.html</id>
         <media:content url="https://blog.myng.ru/media/posts/5/1773252409723234-0.jpg" medium="image" />
+            <category term="Дневник разработки"/>
 
         <updated>2026-04-03T18:35:05+03:00</updated>
             <summary type="html">
@@ -72,17 +73,21 @@
         <author>
             <name>FoxerProxy</name>
         </author>
-        <link href="https://blog.myng.ru/integraciya-s-telegram-chatom-or-dnevnik-razrabotki-no2.html"/>
-        <id>https://blog.myng.ru/integraciya-s-telegram-chatom-or-dnevnik-razrabotki-no2.html</id>
+        <link href="https://blog.myng.ru/dev2.html"/>
+        <id>https://blog.myng.ru/dev2.html</id>
+        <media:content url="https://blog.myng.ru/media/posts/4/image.png" medium="image" />
+            <category term="Дневник разработки"/>
 
         <updated>2026-04-03T18:30:32+03:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://blog.myng.ru/media/posts/4/image.png" alt="" />
                     Всех наших читателей приветствую от лица всей администрации My Next&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://blog.myng.ru/media/posts/4/image.png" class="type:primaryImage" alt="" /></p>
                 <p>Всех наших читателей приветствую от лица всей администрации My Next Generation У нас одни из самых инновационных изменений. </p>
 <div> </div>
 <div>Мы добавили интеграцию чата Minecraft с Telegram, но это ещё не кульминация, ведь техническая часть тоже интересна. Мы настроили и постоянно поддерживаем пул актуальных прокси-серверов по алгоритму socks5, в связи с нестабильностью мессенджера. И так как у нас уже формируется комьюнити мы приглашаем вас в наш <a data-original-attrs="{&quot;data-original-href&quot;:&quot;https://t.me/MyNGChat&quot;}" href="https://www.blogger.com/blog/post/edit/4702403922629430505/5943329288619447128#">Telegram чат</a>. Нам не хватает только вас! </div>
