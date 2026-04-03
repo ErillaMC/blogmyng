@@ -3,7 +3,7 @@
     <title>MyNG | My Next Generation | Блог Minecraft сервера</title>
     <link href="https://blog.myng.ru/feed.xml" rel="self" />
     <link href="https://blog.myng.ru" />
-    <updated>2026-04-03T17:45:01+03:00</updated>
+    <updated>2026-04-03T17:51:01+03:00</updated>
     <author>
         <name>FoxerProxy</name>
     </author>
@@ -16,19 +16,20 @@
         </author>
         <link href="https://blog.myng.ru/dev1.html"/>
         <id>https://blog.myng.ru/dev1.html</id>
+        <media:content url="https://blog.myng.ru/media/posts/3/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-2.png" medium="image" />
             <category term="Дневник разработки"/>
 
         <updated>2026-04-03T17:42:33+03:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://blog.myng.ru/media/posts/3/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-2.png" alt="" />
                     На связи владелец MyNG и я приветствую всех наших читателей&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div><figure class="post__image"><img loading="lazy"  src="https://blog.myng.ru/media/posts/3/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178.png" alt="" width="1920" height="991" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.myng.ru/media/posts/3/responsive/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-xs.png 300w ,https://blog.myng.ru/media/posts/3/responsive/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-sm.png 480w ,https://blog.myng.ru/media/posts/3/responsive/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-md.png 768w ,https://blog.myng.ru/media/posts/3/responsive/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-lg.png 1024w ,https://blog.myng.ru/media/posts/3/responsive/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-xl.png 1360w ,https://blog.myng.ru/media/posts/3/responsive/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-2xl.png 1600w"></figure></div>
-<div> </div>
-<div>На связи владелец MyNG и я приветствую всех наших читателей от имени всего проекта. Пока сервер в разработке, мы продолжаем вести данный блог, чтобы вы понимали, что происходит во время разработки сервера и к чему мы вообще готовимся.</div>
+                    <p><img src="https://blog.myng.ru/media/posts/3/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-2.png" class="type:primaryImage" alt="" /></p>
+                <div>На связи владелец MyNG и я приветствую всех наших читателей от имени всего проекта. Пока сервер в разработке, мы продолжаем вести данный блог, чтобы вы понимали, что происходит во время разработки сервера и к чему мы вообще готовимся.</div>
 <div> </div>
 <div>Начнём с риторического вопроса на который скорее всего все, читающие данный пост знают один ответ. Есть ли среди всех серверов и комьюнити Minecraft, где всё сводится к разрушению или какому-то бесконечному плагиату оригинальность? Мы делаем MyNG (My Next Generation) для тех, кто хочет именно созидать. Мы возвращаемся к истокам, которые заложили Mojang: никаких поблажек, никаких /spawn или /home. Только вы, ваши друзья и мир, который вы меняете своими руками. Техническая часть (без скучных лекций). Мы потратили много времени на то, чтобы всё работало словно часы: </div>
 <div> </div>
