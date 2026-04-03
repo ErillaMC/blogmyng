@@ -3,12 +3,48 @@
     <title>MyNG | My Next Generation | Блог Minecraft сервера</title>
     <link href="https://blog.myng.ru/feed.xml" rel="self" />
     <link href="https://blog.myng.ru" />
-    <updated>2026-04-03T19:13:49+03:00</updated>
+    <updated>2026-04-03T21:05:27+03:00</updated>
     <author>
         <name>FoxerProxy</name>
     </author>
     <id>https://blog.myng.ru</id>
 
+    <entry>
+        <title>Модернизация интерфейса | Миграция документации и техническая оптимизация | Дневник разработки №4</title>
+        <author>
+            <name>FoxerProxy</name>
+        </author>
+        <link href="https://blog.myng.ru/dev4.html"/>
+        <id>https://blog.myng.ru/dev4.html</id>
+        <media:content url="https://blog.myng.ru/media/posts/6/2026-04-03_20.37.03.png" medium="image" />
+            <category term="Дневник разработки"/>
+
+        <updated>2026-04-01T20:48:00+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://blog.myng.ru/media/posts/6/2026-04-03_20.37.03.png" alt="" />
+                    Приветствую. Проект продолжает планомерное развитие внутренних систем и улучшение пользовательского&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.myng.ru/media/posts/6/2026-04-03_20.37.03.png" class="type:primaryImage" alt="" /></p>
+                <p><img loading="lazy" src="file:///C:/Users/istro/AppData/Roaming/.tlauncher/legacy/Minecraft/game/screenshots/2026-04-03_20.37.03.png" data-is-external-image="true"></p>
+<p>Приветствую. Проект продолжает планомерное развитие внутренних систем и улучшение пользовательского опыта. На сегодняшний день реализован ряд изменений, направленных на автономность и удобство взаимодействия с миром проекта.</p>
+<p data-path-to-node="5"><strong data-index-in-node="0" data-path-to-node="5">1. Реформа навигации и UX</strong> Мы проанализировали использование команды <code data-index-in-node="68" data-path-to-node="5">/coords</code> и пришли к выводу, что она избыточна и нарушает погружение в игровой процесс.</p>
+<ul data-path-to-node="6">
+<li>
+<p data-path-to-node="6,1,0"><strong data-index-in-node="0" data-path-to-node="6,1,0">Решение:</strong> Координаты теперь интегрированы непосредственно в Action bar (нижняя часть экрана). Это обеспечивает постоянный мониторинг местоположения без необходимости ввода команд или использования громоздкого меню F3.</p>
+</li>
+</ul>
+<p data-path-to-node="7"><strong data-index-in-node="0" data-path-to-node="7">2. Интеграция визуальных ресурсов</strong> Для обеспечения единообразия визуального стиля внедрен интерфейс предустановки ресурспака. Теперь при первом подключении система предложит оптимизированный набор текстур, что гарантирует большее погружение.</p>
+<p data-path-to-node="8"><strong data-index-in-node="0" data-path-to-node="8">3. Миграция информационных баз</strong> В связи с нестабильностью работы Google, на котором движке основывается наш блог и для обеспечения бесперебойного доступа к регламентам, вся важная документация и правила проекта перенесены на платформу <a href="https://teletype.in/@myng">Teletype</a>. </p>
+<p data-path-to-node="9"><strong data-index-in-node="0" data-path-to-node="9">4. Коммуникационные шлюзы и Telegram</strong> Для устранения проблем с технической недоступностью мессенджера в ряде случаев, нами настроен и оплачен стабильный прокси-сервер.</p>
+<p data-path-to-node="10"><strong data-index-in-node="0" data-path-to-node="10">5. Технический регламент</strong> Проведена комплексная оптимизация серверной части. Исправлены ошибки распределения ресурсов, что позволило добиться более стабильных показателей TPS при текущих нагрузках. Также внедрена система приветствий и уведомлений о статусе игроков при подключении/отключении для прозрачности игрового процесса.</p>
+<p data-path-to-node="11">Если вы еще не подключены к проекту — сейчас самое время это сделать. Мы находимся в фазе активного бета-тестирования, а это значит, что каждый участник может внести свой вклад в формирование технического фундамента MyNG. Присоединяйтесь к нам на <a href="https://auth.myng.ru/">auth.myng.ru</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Постройка уютной локации Spawn | Сундуки после смерти | Новые ивенты | Обновление сайта и правил | Дневник разработки №3</title>
         <author>
@@ -19,7 +55,7 @@
         <media:content url="https://blog.myng.ru/media/posts/5/1773252409723234-0.jpg" medium="image" />
             <category term="Дневник разработки"/>
 
-        <updated>2026-04-03T18:35:05+03:00</updated>
+        <updated>2026-03-13T18:35:00+03:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://blog.myng.ru/media/posts/5/1773252409723234-0.jpg" alt="" />
@@ -78,7 +114,7 @@
         <media:content url="https://blog.myng.ru/media/posts/4/image.png" medium="image" />
             <category term="Дневник разработки"/>
 
-        <updated>2026-04-03T18:30:32+03:00</updated>
+        <updated>2026-03-03T18:30:00+03:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://blog.myng.ru/media/posts/4/image.png" alt="" />
@@ -108,7 +144,7 @@
         <media:content url="https://blog.myng.ru/media/posts/3/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-2.png" medium="image" />
             <category term="Дневник разработки"/>
 
-        <updated>2026-04-03T17:42:33+03:00</updated>
+        <updated>2026-02-27T17:42:00+03:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://blog.myng.ru/media/posts/3/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-2.png" alt="" />
