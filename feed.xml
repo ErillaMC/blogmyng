@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>MyNG | My Next Generation | Блог Minecraft сервера</title>
+    <link href="https://blog.myng.ru/feed.xml" rel="self" />
+    <link href="https://blog.myng.ru" />
+    <updated>2026-03-02T22:02:20+03:00</updated>
+    <author>
+        <name>FoxerProxy</name>
+    </author>
+    <id>https://blog.myng.ru</id>
+
+    <entry>
+        <title>Главная страница</title>
+        <author>
+            <name>FoxerProxy</name>
+        </author>
+        <link href="https://blog.myng.ru/home.html"/>
+        <id>https://blog.myng.ru/home.html</id>
+        <media:content url="https://blog.myng.ru/media/posts/2/Scrin143.png" medium="image" />
+
+        <updated>2026-03-02T22:02:20+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

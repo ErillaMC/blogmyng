@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MyNG | My Next Generation | Блог Minecraft сервера",
+    "description": "",
+    "home_page_url": "https://blog.myng.ru",
+    "feed_url": "https://blog.myng.ru/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "FoxerProxy"
+    },
+    "items": [
+        {
+            "id": "https://blog.myng.ru/home.html",
+            "url": "https://blog.myng.ru/home.html",
+            "title": "Главная страница",
+            "image": "https://blog.myng.ru/media/posts/2/Scrin143.png",
+            "author": {
+                "name": "FoxerProxy"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-02T22:02:20+03:00",
+            "date_modified": "2026-03-02T22:02:20+03:00"
+        }
+    ]
+}
