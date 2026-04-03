@@ -3,7 +3,7 @@
     <title>MyNG | My Next Generation | Блог Minecraft сервера</title>
     <link href="https://blog.myng.ru/feed.xml" rel="self" />
     <link href="https://blog.myng.ru" />
-    <updated>2026-04-03T21:06:00+03:00</updated>
+    <updated>2026-04-03T21:45:30+03:00</updated>
     <author>
         <name>FoxerProxy</name>
     </author>
@@ -141,19 +141,19 @@
         </author>
         <link href="https://blog.myng.ru/dev1.html"/>
         <id>https://blog.myng.ru/dev1.html</id>
-        <media:content url="https://blog.myng.ru/media/posts/3/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-2.png" medium="image" />
+        <media:content url="https://blog.myng.ru/media/posts/3/1772679741598451-0.jpg" medium="image" />
             <category term="Дневник разработки"/>
 
         <updated>2026-02-27T17:42:00+03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://blog.myng.ru/media/posts/3/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-2.png" alt="" />
+                        <img src="https://blog.myng.ru/media/posts/3/1772679741598451-0.jpg" alt="" />
                     На связи владелец MyNG и я приветствую всех наших читателей&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blog.myng.ru/media/posts/3/Skrinshot-s-zahvatom-aktivnogo-okna-ot-27.9.2026-chasy-22-minuty-01-sekundy-57-milisekundy-178-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blog.myng.ru/media/posts/3/1772679741598451-0.jpg" class="type:primaryImage" alt="" /></p>
                 <div>На связи владелец MyNG и я приветствую всех наших читателей от имени всего проекта. Пока сервер в разработке, мы продолжаем вести данный блог, чтобы вы понимали, что происходит во время разработки сервера и к чему мы вообще готовимся.</div>
 <div> </div>
 <div>Начнём с риторического вопроса на который скорее всего все, читающие данный пост знают один ответ. Есть ли среди всех серверов и комьюнити Minecraft, где всё сводится к разрушению или какому-то бесконечному плагиату оригинальность? Мы делаем MyNG (My Next Generation) для тех, кто хочет именно созидать. Мы возвращаемся к истокам, которые заложили Mojang: никаких поблажек, никаких /spawn или /home. Только вы, ваши друзья и мир, который вы меняете своими руками. Техническая часть (без скучных лекций). Мы потратили много времени на то, чтобы всё работало словно часы: </div>
