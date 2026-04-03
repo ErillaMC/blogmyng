@@ -3,7 +3,7 @@
     <title>MyNG | My Next Generation | Блог Minecraft сервера</title>
     <link href="https://blog.myng.ru/feed.xml" rel="self" />
     <link href="https://blog.myng.ru" />
-    <updated>2026-04-03T23:16:32+03:00</updated>
+    <updated>2026-04-03T23:20:20+03:00</updated>
     <author>
         <name>FoxerProxy</name>
     </author>
@@ -51,22 +51,23 @@
         </author>
         <link href="https://blog.myng.ru/dev3.html"/>
         <id>https://blog.myng.ru/dev3.html</id>
-        <media:content url="https://blog.myng.ru/media/posts/5/1773252409723234-0.jpg" medium="image" />
+        <media:content url="https://blog.myng.ru/media/posts/5/Skrinshot-s-zahvatom-aktivnogo-okna-ot-03.14.2026-chasy-23-minuty-19-sekundy-29-milisekundy-813.png" medium="image" />
             <category term="Дневник разработки"/>
 
         <updated>2026-03-13T14:49:00+03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://blog.myng.ru/media/posts/5/1773252409723234-0.jpg" alt="" />
+                        <img src="https://blog.myng.ru/media/posts/5/Skrinshot-s-zahvatom-aktivnogo-okna-ot-03.14.2026-chasy-23-minuty-19-sekundy-29-milisekundy-813.png" alt="" />
                     Приветствую всех игроков от лица всего проекта. На сегодняшний день&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blog.myng.ru/media/posts/5/1773252409723234-0.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blog.myng.ru/media/posts/5/Skrinshot-s-zahvatom-aktivnogo-okna-ot-03.14.2026-chasy-23-minuty-19-sekundy-29-milisekundy-813.png" class="type:primaryImage" alt="" /></p>
                 <div>
 <div>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://blog.myng.ru/media/posts/5/gallery/1773252409723234-0-2.jpg" data-size="1280x660"><img loading="lazy" src="https://blog.myng.ru/media/posts/5/gallery/1773252409723234-0-2-thumbnail.jpg" alt="" width="720" height="371"></a></figure>
 <figure class="gallery__item"><a href="https://blog.myng.ru/media/posts/5/gallery/1773252406611634-1-2.jpg" data-size="1280x660"><img loading="lazy" src="https://blog.myng.ru/media/posts/5/gallery/1773252406611634-1-2-thumbnail.jpg" alt="" width="720" height="371"></a></figure>
 <figure class="gallery__item"><a href="https://blog.myng.ru/media/posts/5/gallery/1773141400017918-2-2.jpg" data-size="1280x660"><img loading="lazy" src="https://blog.myng.ru/media/posts/5/gallery/1773141400017918-2-2-thumbnail.jpg" alt="" width="720" height="371"></a></figure>
 </div></div>
